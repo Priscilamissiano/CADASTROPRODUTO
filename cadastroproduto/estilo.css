@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(189, 33, 129);
+    width: 100%;
+}
+button{
+    background-color: rgb(202, 7, 98);
+    margin:1%;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.precoproduto{
+    width: 100%;
+}
+.nomeproduto{
+    width:100%;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.center{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: antiquewhite;
+}
